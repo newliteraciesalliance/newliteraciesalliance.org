@@ -1,0 +1,84 @@
+{% comment %}
+<footer class="site-footer h-card">
+    <data class="u-url" href="{{ "/" | relative_url }}"></data>
+  
+    <div class="wrapper">
+  
+      <h2 class="footer-heading">{{ site.title | escape }}</h2>
+  
+      <div class="footer-col-wrapper">
+        <div class="footer-col footer-col-1">
+          <ul class="contact-list">
+            <li class="p-name">
+              {%- if site.author -%}
+                {{ site.author | escape }}
+              {%- else -%}
+                {{ site.title | escape }}
+              {%- endif -%}
+              </li>
+              {%- if site.email -%}
+              <li><a class="u-email" href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+              {%- endif -%}
+          </ul>
+        </div>
+  
+        <div class="footer-col footer-col-2">
+          {%- include social.html -%}
+        </div>
+  
+        <div class="footer-col footer-col-3">
+          <p>{{- site.description | escape -}}</p>
+        </div>
+      </div>
+  
+    </div>
+  
+  </footer>
+
+  
+
+{% endcomment %}
+
+<footer id="colophon" class="site-footer" aria-labelledby="footer-header" itemscope="itemscope" itemtype="https://schema.org/WPFooter">
+
+		
+    <h2 class="screen-reader-text" id="footer-header">Footer Content</h2>
+
+    <div id="footer-widgets" class="widget-area three" itemscope="itemscope" itemtype="https://schema.org/WPSideBar">
+
+    </div><!-- #footer-widgets -->
+
+    <div class="site-info">        
+            <div id="copyright-widget">
+                <section id="text-4" class="widget widget_text">
+                    <div class="textwidget"><div style="width: 100%;">
+<div style="float:left; width:75%;">
+<span>Last Updated: July 27, 2021 9:00 AM </span>
+|  
+<span> URL: https://newliteraciesalliance.org/</span>                                    
+</div>
+<div style="float:right; width:25%; text-align:right;">
+<a href="mailto:aliceanderson@ksu.edu">Report a problem</a> 
+ </div>
+  <br /></div>
+    </section>				</div>
+            <span class="meta-separator" aria-hidden="true">&bull;</span>
+
+        
+        Using <a href="http://mtomas.com/1/tiny-forge-free-mobile-first-wordpress-theme" rel="nofollow">Tiny Framework</a> <span class="meta-separator" aria-hidden="true">&bull;</span>
+        
+        <span id="site-admin-link"> <a href="https://newliteraciesalliance.org/wp-login.php">Log in</a></span>
+
+    </div><!-- .site-info -->
+
+    <div class="site-info-2">
+
+        
+        
+
+    </div><!-- .site-info-2 -->
+
+    
+</footer><!-- .site-footer -->
+
+
