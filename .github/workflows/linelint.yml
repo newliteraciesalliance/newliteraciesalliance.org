@@ -1,0 +1,17 @@
+name: Perform Line Linting
+
+on:
+  push:
+  pull_request: 
+
+jobs:
+  linelint:
+    runs-on: ubuntu-latest
+    name: Check if all files end in newline
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4.2.2
+      - name: Linelint
+        uses: fernandrone/linelint@master
+        id: linelint
+
