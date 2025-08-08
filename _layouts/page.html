@@ -29,12 +29,12 @@
         <div id="page" class="site">
           <header id="masthead" class="site-header" itemscope="itemscope" itemtype="https://schema.org/WPHeader">
             <div class="site-branding" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization">
-              <a href="/" class="custom-logo-link site-logo-link" rel="home" aria-current="page">
-                <img width="193" height="93" src="/assets/images/nla_logo.png" class="custom-logo attachment-full size-full" alt="New Literacies Alliance logo" decoding="async" />
+              <a href="{{ "/" | relative_url }}" class="custom-logo-link site-logo-link" rel="home" aria-current="page">
+                <img width="193" height="93" src="{{ "/assets/images/nla_logo.png" | relative_url }}" class="custom-logo attachment-full size-full" alt="New Literacies Alliance logo" decoding="async" />
               </a>
               <div id="site-title-wrapper">
                 <p id="site-title" class="site-title">
-                  <a href="/" rel="home">New Literacies Alliance</a>
+                  <a href="{{ "/" | relative_url }}" rel="home">New Literacies Alliance</a>
                 </p>
                 <p id="site-description" class="site-description">Critical Thinking for Complex Times</p>
               </div>
@@ -46,13 +46,13 @@
               <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
               <div class="search-box-wrapper search-container-mobile">
                 <div class="search-box">
-                  <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" role="search" method="get" class="search-form" action="/search/">
+                  <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" role="search" method="get" class="search-form" action="{{ "/search/" | relative_url }}">
                     <label>
                       <span class="screen-reader-text">Search for:</span>
                       <input type="search" itemprop="query-input" class="search-field" placeholder="Search &hellip;" value="" name="q" />
                     </label>
                     <input type="submit" class="search-submit" value="Search" />
-                    <meta itemprop="target" content="/search/?q={search}" />
+                    <meta itemprop="target" content="{{ "/search/" | relative_url }}?q={search}" />
                   </form>
                 </div>
               </div>
@@ -60,45 +60,45 @@
               <div class="menu-main-container">
                 <ul id="primary-menu" class="nav-menu">
                   <li id="menu-item-28" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-28">
-                    <a href="/" aria-current="page">Home</a>
+                    <a href="{{ "/" | relative_url }}" aria-current="page">Home</a>
                   </li>
                   <li id="menu-item-26" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-26">
-                    <a href="/available-lessons/">Available Lessons</a>
+                    <a href="{{ "/available-lessons/" | relative_url }}">Available Lessons</a>
                   </li>
                   <li id="menu-item-25" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-25">
-                    <a href="/using-lessons/">Using the Lessons</a>
+                    <a href="{{ "/using-lessons/" | relative_url }}">Using the Lessons</a>
                     <ul class="sub-menu">
                       <li id="menu-item-545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-545">
-                        <a href="/using-lessons/">Using the Lessons</a>
+                        <a href="{{ "/using-lessons/" | relative_url }}">Using the Lessons</a>
                       </li>
                       <li id="menu-item-274" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-274">
-                        <a href="/using-lessons/popular-sequences/">Popular Sequences</a>
+                        <a href="{{ "/using-lessons/popular-sequences/" | relative_url }}">Popular Sequences</a>
                       </li>
                       <li id="menu-item-275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-275">
-                        <a href="/using-lessons/get-lesson-links/">Get Lesson Links</a>
+                        <a href="{{ "/using-lessons/get-lesson-links/" | relative_url }}">Get Lesson Links</a>
                       </li>
                     </ul>
                   </li>
                   <li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14">
-                    <a href="/process/">Process</a>
+                    <a href="{{ "/process/" | relative_url }}">Process</a>
                   </li>
                   <li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27">
-                    <a href="/for-librarians/">For Librarians</a>
+                    <a href="{{ "/for-librarians/" | relative_url }}">For Librarians</a>
                   </li>
                   <li id="menu-item-13" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13">
-                    <a href="/research-awards/">Research &#038; Awards</a>
+                    <a href="{{ "/research-awards/" | relative_url }}">Research &#038; Awards</a>
                   </li>
                   <li id="menu-item-24" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-24">
-                    <a href="/about-us/">About</a>
+                    <a href="{{ "/about-us/" | relative_url }}">About</a>
                     <ul class="sub-menu">
                       <li id="menu-item-544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-544">
-                        <a href="/about-us/">About Us</a>
+                        <a href="{{ "/about-us/" | relative_url }}">About Us</a>
                       </li>
                       <li id="menu-item-376" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-376">
-                        <a href="/about-us/project-history/">Project History</a>
+                        <a href="{{ "/about-us/project-history/" | relative_url }}">Project History</a>
                       </li>
                       <li id="menu-item-375" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-375">
-                        <a href="/about-us/join/">Join</a>
+                        <a href="{{ "/about-us/join/" | relative_url }}">Join</a>
                       </li>
                     </ul>
                   </li>
@@ -118,14 +118,14 @@
 
 </div><!-- #page .site -->
 
-<script type="text/javascript" src="/styles/tiny-framework/js/navigation.js" id="tinyframework-navigation-js"></script>
+<script type="text/javascript" src="{{ "/styles/tiny-framework/js/navigation.js" | relative_url }}" id="tinyframework-navigation-js"></script>
 <script type="text/javascript" id="tinyframework-additional-scripts-js-extra">
 /* <![CDATA[ */
 var tinyframeworkAdditionalScripts = {"newWindow":"Opens in a new window"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="/styles/tiny-framework/js/functions.js" id="tinyframework-additional-scripts-js"></script>
-<script type="text/javascript" src="/styles/tiny-framework/js/skip-link-focus-fix.js" id="tinyframework-skip-link-focus-fix-js"></script>
+<script type="text/javascript" src="{{ "/styles/tiny-framework/js/functions.js" | relative_url }}" id="tinyframework-additional-scripts-js"></script>
+<script type="text/javascript" src="{{ "/styles/tiny-framework/js/skip-link-focus-fix.js" | relative_url }}" id="tinyframework-skip-link-focus-fix-js"></script>
 
 <!-- Happy coding! "Ut In Omnibus Glorificetur Deus" ~Saint Benedict -->
 </body>

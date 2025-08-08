@@ -6,7 +6,7 @@
     {% if page.title %}{{ page.title }} - {{ site.title | default: "New Literacies Alliance" }}{% else %}{{ site.title | default: "New Literacies Alliance" }}{% endif %}
   </title>
 
-  <link rel="canonical" href="{{ site.url | default: "" }}{{ page.url }}" />
+  <link rel="canonical" href="{{ page.url | absolute_url }}" />
 
   <!-- Styles -->
   <link rel="stylesheet" href="{{ "/styles/tiny-framework/style.css" | relative_url }}" />
