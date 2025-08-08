@@ -13,7 +13,9 @@
         libxml2-dev \
         tzdata \
         bash \
-        git
+        git \
+        nodejs \
+        npm
     
     # Set a working directory inside the container
     WORKDIR /srv/jekyll
@@ -29,6 +31,11 @@
     
     # Copy the rest of the site source files
     COPY . .
+    
+    # Build the static site and generate Pagefind index during image build
+    # This creates _site/ and _site/pagefind assets that the site will serve
+    RUN bundle exec jekyll build && \
+        npx --yes pagefind --site _site
     
     # Expose the default Jekyll port
     EXPOSE 4000
