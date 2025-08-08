@@ -9,6 +9,22 @@ permalink: /search/
   document.addEventListener('DOMContentLoaded', () => {
     if (window.PagefindUI) {
       new PagefindUI({ element: "#search", showSubResults: true });
+      const params = new URLSearchParams(window.location.search);
+      const q = params.get('q');
+      if (q) {
+        // Try to find the input rendered by Pagefind UI and seed the term
+        const searchRoot = document.querySelector('#search');
+        const trySeed = () => {
+          const input = searchRoot && searchRoot.querySelector('input[type="search"], input[type="text"]');
+          if (input) {
+            input.value = q;
+            input.dispatchEvent(new Event('input', { bubbles: true }));
+          } else {
+            requestAnimationFrame(trySeed);
+          }
+        };
+        trySeed();
+      }
     }
   });
 </script>
