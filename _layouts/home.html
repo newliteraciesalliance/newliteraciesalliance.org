@@ -44,18 +44,6 @@
             <nav id="site-navigation" class="main-navigation" aria-label="Primary Menu" itemscope="itemscope" itemtype="https://schema.org/SiteNavigationElement">
               <h2 class="screen-reader-text">Primary Menu</h2>
               <button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false">Menu</button>
-              <div class="search-box-wrapper search-container-mobile">
-                <div class="search-box">
-                  <form itemprop="potentialAction" itemscope itemtype="http://schema.org/SearchAction" role="search" method="get" class="search-form" action="{{ "/search/" | relative_url }}">
-                    <label>
-                      <span class="screen-reader-text">Search for:</span>
-                      <input type="search" itemprop="query-input" class="search-field" placeholder="Search &hellip;" value="" name="q" />
-                    </label>
-                    <input type="submit" class="search-submit" value="Search" />
-                    <meta itemprop="target" content="{{ "/search/" | relative_url }}?q={search}" />
-                  </form>
-                </div>
-              </div>
               <!--<button class="go-to-top"><a href="#page"><span class="icon-webfont fa-chevron-circle-up" aria-hidden="true"></span></a></button>-->
               <div class="menu-main-container">
                 <ul id="primary-menu" class="nav-menu">
