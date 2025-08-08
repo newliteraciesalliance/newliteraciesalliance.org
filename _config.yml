@@ -33,6 +33,7 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+ga4_measurement_id: "" # Set the GA4 Measurement ID, e.g., G-XXXXXXXXXX
 
 # Exclude from processing.
 # The following items will not be processed, by default.

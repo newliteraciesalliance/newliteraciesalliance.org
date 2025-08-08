@@ -1,0 +1,14 @@
+---
+layout: page
+title: Search
+permalink: /search/
+---
+
+<div id="search" class="pagefind-search"></div>
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    if (window.PagefindUI) {
+      new PagefindUI({ element: "#search", showSubResults: true });
+    }
+  });
+</script>

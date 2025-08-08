@@ -1,0 +1,16 @@
+services:
+  jekyll:
+    build: .
+    ports:
+      - "4000:4000"
+    volumes:
+      # Mount the whole project into the container so edits are reflected instantly.
+      - .:/srv/jekyll:cached
+      # Persist Ruby gems outside the bind mount so executables are available
+      - jekyll_gems:/usr/local/bundle
+    # Prevent the container from exiting when the command finishes (it won’t, because Jekyll stays running)
+    stdin_open: true
+    tty: true
+
+volumes:
+  jekyll_gems:
