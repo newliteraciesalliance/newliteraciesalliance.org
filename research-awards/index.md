@@ -6,32 +6,55 @@ permalink: /research-awards/
 
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
-        <h2>Meetings</h2>
+        <h2>Press Release</h2>
     </div>
     <div class="contentbox">
-        <p>Biannually, NLA project leads and contributing staff gather in-person and online to discuss goals and potential lessons for the next phase of the project. Meetings include the sharing of project goals for the semester; status reports on in-progress lessons, recently completed lessons, and special projects; and breakout sessions where members discuss the lessons most needed within the ACRL Framework. Two to three lessons are usually selected for creation, and individuals volunteer for lessons that sound meaningful and interesting to them.</p>
+        <h3>Innovation Award, 2016</h3>
+        <p>The New Literacies Alliance was honored to receive the Association of College and Research Libraries (ACRL) Instruction Section (IS) <a href="http://www.ala.org/news/press-releases/2016/01/collins-kearns-and-pitts-win-2016-acrl-innovation-award" target="_blank" rel="noopener noreferrer">Innovation Award <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>, 2016. The annual award recognizes a project that demonstrates creative, innovative, or unique approaches to information literacy instruction or programming. </p>
     </div>
     <div class="title">
-        <h2>Lesson Creation</h2>
+        <h2>Presentations</h2>
     </div>
     <div class="contentbox">
-        <p>Lesson groups consist of members interested in working on the lesson as well as an instructional designer. Instructional designers have extensive knowledge of learning theories, instructional models, course development, and online education. They apply that knowledge to create learning environments that are not only more efficient, engaging, and effective, but also fun. The group spends time forming the objective of the lesson before ultimately focusing on creating the content. The frequency of group meetings depends on many factors, including the group’s timeline and lesson goals. Sometimes members meet once a week, sometimes once a month is sufficient.</p>
-        <p>Lessons tell a story that include not only a beginning, middle, and end, but also drama and relevance to the reader. This is called a story arc and many lessons are influenced by this process. Choosing activities and assessments that are engaging is crucial to telling a good story. There are many possibilities from which to choose, and a mix of modalities are usually incorporated into a lesson.</p>
-    </div>
-    <div class="title">
-        <h2>Resources</h2>
-    </div>
-    <div class="contentbox">
-        <h3>Open edX</h3>
-        <p>Part of creating a good lesson is access to interactive tools. <a href="https://open.edx.org/">Open edX</a> is an open source tool that has a good mix of features considered essential to the project, including:</p>
-        <ul>
-            <li>customizable learning experiences to reflect different goals</li>
-            <li>desktop and mobile-friendly features</li>
-            <li>built-in reports to help manage online content</li>
-            <li>cloud-based creation, editing, and storage of lessons</li>
-            <li>compliance to standards (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>, <a href="http://scorm.com/scorm-explained/" target="_blank" rel="noopener">SCORM<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Opens in a new window</span></a> and <a href="http://www.imsglobal.org/activity/learning-tools-interoperability" target="_blank" rel="noopener">LTI<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Opens in a new window</span></a>)</li>
-        </ul>
-        <h3>OER and Rapid Prototyping</h3>
-        <p>NLA has used other tools over time, including various open educational resources (OERs) and rapid prototyping. OERs are educational materials that are made available to the public for little or no cost. Instructional designers use rapid prototyping throughout the development process to ensure that lessons aren’t continuously in the development phase. This philosophy pushes lessons in development out to stakeholders (usually students) for feedback before a lesson is completed, which provides invaluable feedback for improving the lesson.</p>
+        <p>Pitts., J., Mallon, M., &amp; Upson, M. (2019, April). <em>Critical thinking for complex times: How the New Literacies Alliance uses OER to integrate information literacy into the curriculum - and how you can, too.</em> Presented at LILAC Information Literacy Conference, University of Nottingham, UK. </p>
+        <p>Upson, M., Mallon, M. N., &amp; Pitts, J. (2018, October).&nbsp; <em>Critical Thinking for Complex Times: How the New Literacies Alliance Uses OER for Information Literacy. </em>Presentation at the&nbsp;Open Education Southern Symposium, Fayetteville, AR. Available at:&nbsp; <a href="http://bit.ly/oess18_nla">http://bit.ly/oess18_nla</a>
+        </p>
+        <p>Hartman, R. (2018, August 14). <em>Library lessons: Online information literacy modules and guides</em>.&nbsp;Fort Hays State University Professional Development Day. </p>
+        <p>Anderson, A., &amp; Kearns, S. K. (2018, August). <em>OER adoption: Moving Beyond Early Adopters and Empowering Everyone Else to Use the OER, Too</em>. Presentation at the Greater Western Library Alliance Conference, Denver, CO. Available at <a href="https://newprairiepress.org/oer_fromvisiontoaction/2018/presentations/3" target="_blank" rel="noopener noreferrer">https://newprairiepress.org/oer_fromvisiontoaction/2018/presentations/3 <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>
+        </p>
+        <p>Healy, H., Hartwell, J., Vukas, R., &amp; Collins, H. (2016, October). <em>Converging to meet information literacy competencies</em>. Presentation at the Midwest and Midcontinental Chapters of the Medical Library Association Conference, Des Moines, IA. Available at <a href="http://midwestmla.org/conference2016/wordpress/wp-content/uploads/2016/10/Converging_to_Meet_Information_Literacy_Competencies_Healy_Collins_Hartwell_Vukas_125pm_Salon-B_PDF-version.pdf" target="_blank" rel="noopener noreferrer">http://midwestmla.org/conference2016/wordpress/wp-content/uploads/2016/10/Converging_to_Meet_Information_Literacy_Competencies_Healy_Collins_Hartwell_Vukas_125pm_Salon-B_PDF-version.pdf <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>
+        </p>
+        <p>Hartwell, J. (2016, August). <em>Static course modules? ZAP! Librarians create interactive online lessons</em>. Presentation at the Summer Institute for Distance Learning and Instructional Technology (SIDLIT), Overland Park, KS. Available at <a href="http://scholarspace.jccc.edu/c2c_sidlit/2016/Thursday/14/" target="_blank" rel="noopener noreferrer">http://scholarspace.jccc.edu/c2c_sidlit/2016/Thursday/14/ <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>
+        </p>
+        <p>Pitts, J., Collins, H., &amp; Kearns, S. (2016, July). <em>Thriving in new landscapes: Metaliteracies, framework, and partnerships</em>. Keynote speakers for the Oklahoma Community of Instruction Librarians <a href="http://coil.okacrl.org/uncoiled-2016/" target="_blank" rel="noopener noreferrer">unCOILed conference <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>, Stillwater, OK. Available at <a href="http://coil.okacrl.org/wp-content/uploads/2016/07/Keynote-Presentation.pdf" target="_blank" rel="noopener noreferrer">http://coil.okacrl.org/wp-content/uploads/2016/07/Keynote-Presentation.pdf <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>
+        </p>
+        <p>Healy, H. S., &amp; Hartwell, J. A. (2016, April). <em>New frameworks, new friends: New Literacies Alliance (NLA), open access information literacy instruction &amp; collaboration</em>. Presentation at the annual meeting of the College &amp; University Libraries Section (CULS) of the Kansas Library Association, Manhattan, KS. Available at <a href="http://digitalcommons.unl.edu/neblibconf/1/" target="_blank" rel="noopener noreferrer">http://digitalcommons.unl.edu/neblibconf/1/ <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>
+        </p>
+        <p>Collins, H., Pitts, J., &amp; Kearns, S. (2015, May). <em>How to win partners and influence students: Collaborating to teach new literacies online</em>. Presentation at the Medical Library Association annual meeting, Austin, TX. </p>
+        <p>Kearns, S., Pitts, J., &amp; Collins, H. (2015, March). <em>It takes a village: Collaborating to teach new literacies online</em>. Poster presentation at the Association of College and Research Libraries conference, Portland, OR. Available at <a href="http://hdl.handle.net/2097/27644" target="_blank" rel="noopener noreferrer">http://hdl.handle.net/2097/27644 <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>
+        </p>
+        <p>Witek, D., Theiss, D., &amp; Pitts, J. (2015, March). <em>Shifting our focus, evolving our practice: A collaborative conversation about the ACRL framework for information literacy for higher education</em>. Panel presentation at the Association for College and Research Libraries conference, Portland, OR. </p>
+        <p>Kearns, S.K., Pitts, J., Collins, H., &amp; Huffman, A. (2013, November). <em>Grassroots academic consortia building: We built it, what if they don’t come?</em> Roundtable discussion facilitators at the e-Learning &amp; Innovative Pedagogies conference, Madrid, Spain. </p>
+        <p>Kearns, S.K., Pitts, J., Collins, H., &amp; Huffman, A. (2013, November). <em>Timelines and scaffolds: Designing a ubiquitous e-learning environment and the inter-institutional collaboration to sustain it</em>. Presentation at the e-Learning &amp; Innovative Pedagogies conference, Madrid, Spain. Available at <a href="http://hdl.handle.net/2097/27643" target="_blank" rel="noopener noreferrer">http://hdl.handle.net/2097/27643 <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a>
+        </p>
+        <p>Buchannan, L., Collins, H., Kumm, S., &amp; Tarnow, K. (2013, October). <em>Information literacy for lifelong learning: Teaching them to fish instead of feeding them</em>. Presentation at the National Conference on Professional Nursing Education and Development, Kansas City, MO. </p>
     </div>
 </div>

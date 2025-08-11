@@ -23,13 +23,17 @@ permalink: /process/
     </div>
     <div class="contentbox">
         <h3>Open edX</h3>
-        <p>Part of creating a good lesson is access to interactive tools. <a href="https://open.edx.org/">Open edX</a> is an open source tool that has a good mix of features considered essential to the project, including:</p>
+        <p>Part of creating a good lesson is access to interactive tools. <a href="https://open.edx.org/">Open edX</a> is an open source tool that has a good mix of features considered essential to the project, including: </p>
         <ul>
             <li>customizable learning experiences to reflect different goals</li>
             <li>desktop and mobile-friendly features</li>
             <li>built-in reports to help manage online content</li>
             <li>cloud-based creation, editing, and storage of lessons</li>
-            <li>compliance to standards (<a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>, <a href="http://scorm.com/scorm-explained/" target="_blank" rel="noopener">SCORM<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Opens in a new window</span></a> and <a href="http://www.imsglobal.org/activity/learning-tools-interoperability" target="_blank" rel="noopener">LTI<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Opens in a new window</span></a>)</li>
+            <li>compliance to standards ( <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">WCAG</a>, <a href="http://scorm.com/scorm-explained/" target="_blank" rel="noopener">SCORM <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                    <span class="screen-reader-text">Opens in a new window</span>
+                </a> and <a href="http://www.imsglobal.org/activity/learning-tools-interoperability" target="_blank" rel="noopener">LTI <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                    <span class="screen-reader-text">Opens in a new window</span>
+                </a>) </li>
         </ul>
         <h3>OER and Rapid Prototyping</h3>
         <p>NLA has used other tools over time, including various open educational resources (OERs) and rapid prototyping. OERs are educational materials that are made available to the public for little or no cost. Instructional designers use rapid prototyping throughout the development process to ensure that lessons aren’t continuously in the development phase. This philosophy pushes lessons in development out to stakeholders (usually students) for feedback before a lesson is completed, which provides invaluable feedback for improving the lesson.</p>

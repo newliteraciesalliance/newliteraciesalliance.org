@@ -16,7 +16,11 @@ permalink: /for-librarians/
     </div>
     <div class="contentbox">
         <p>Lessons developed by NLA challenge students to critically engage with and create information. Use of the online lessons in courses and programs ensures that students have a baseline conceptual understanding of finding, evaluating, sharing, and creating information. These lessons invite reflection and application of learning at strategic points in a course. Faculty, instructors, and librarians can build on these interdisciplinary materials and invite students to engage further with discipline- and course-specific information literacy concepts.</p>
-        <p><a href="InstructorPrimer.pdf" target="_blank" rel="noopener">The NLA Instructor Primer<span class="icon-webfont fa-external-link" aria-hidden="true"></span><span class="screen-reader-text">Opens in a new window</span></a> was developed to help librarians and instructors communicate about the pedagogical approach and logistics of choosing and using lessons. We hope you find it helpful.</p>
+        <p>
+            <a href="/assets/InstructorPrimer.pdf" target="_blank" rel="noopener">The NLA Instructor Primer <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
+                <span class="screen-reader-text">Opens in a new window</span>
+            </a> was developed to help librarians and instructors communicate about the pedagogical approach and logistics of choosing and using lessons. We hope you find it helpful.
+        </p>
     </div>
     <div class="title">
         <h2>Elevator Pitch</h2>
@@ -29,6 +33,6 @@ permalink: /for-librarians/
         <h2>Support</h2>
     </div>
     <div class="contentbox">
-        <p>Librarians seeking help with troubleshooting installations or problems with lessons should write to <a href="mailto:support@newliteraciesalliance.org">support@newliteraciesalliance.org</a>.</p>
+        <p>Librarians seeking help with troubleshooting installations or problems with lessons should write to <a href="mailto:support@newliteraciesalliance.org">support@newliteraciesalliance.org</a>. </p>
     </div>
 </div>

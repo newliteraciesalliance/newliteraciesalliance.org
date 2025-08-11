@@ -10,7 +10,9 @@ permalink: /using-lessons/
     </div>
     <div class="contentbox">
         <figure id="attachment_612" aria-describedby="caption-attachment-612" style="width: 240px" class="wp-caption alignright">
-            <a href="{{ "/using-lessons/get-lesson-links/" | relative_url }}"><img decoding="async" class="wp-image-612 size-full" src="/assets/images/Cc-by-nc-sa_icon.png" alt="Creative commons license BY-NC-SA, link goes to Accessing the Lessons page." width="240" height="84"></a>
+            <a href="/using-lessons/get-lesson-links/">
+                <img decoding="async" class="wp-image-612 size-full" src="/assets/images/Cc-by-nc-sa_icon.png" alt="Creative commons license BY-NC-SA, link goes to Accessing the Lessons page." width="240" height="84">
+            </a>
             <figcaption id="caption-attachment-612" class="wp-caption-text">Lessons are offered under Creative Commons, Attribution-NonCommercial-ShareAlike.</figcaption>
         </figure>
         <p>Students connect to information literacy concepts best when they can relate them to an assignment or project. Therefore, as with all library instruction, we suggest that students complete the lessons after the associated research project has been explained, but before the project is due. When possible, we recommend that course faculty or instructors begin communicating with their librarian while drafting the syllabus.</p>
