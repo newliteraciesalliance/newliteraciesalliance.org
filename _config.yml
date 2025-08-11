@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: New Literacies Alliance
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Our purpose is to address the new literacies needed for academic success and lifelong learning.
+  In our lessons, students master skills at their own pace using our cutting-edge online learning
+  platform. Since our lessons are free Open Education Resources, you can use and adapt as you
+  see fit. Review some suggested sequences. Read about the different ways to
+  access the lessons and request the links you want.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  newliteraciesalliance
 
 # Build settings
 theme: minima
