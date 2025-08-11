@@ -36,6 +36,19 @@
     --nla-shadow: 0 1px 2px rgba(0,0,0,.06), 0 2px 6px rgba(0,0,0,.04);
   }
   
+  /* Visually hide, keep accessible to screen readers */
+  .screen-reader-text {
+    position: absolute !important;
+    width: 1px;
+    height: 1px;
+    padding: 0;
+    margin: -1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+    border: 0;
+  }
+  
   /* Section header (title) */
   .entry-content .title {
     background: var(--nla-green);
