@@ -12,7 +12,7 @@ permalink: /available-lessons/
         <p>Below, you can peruse all current NLA lessons. Each lesson takes an average of 8-15 minutes for students to complete. If you would like to use any of these free lessons, please visit the <a href="/using-lessons/get-lesson-links/">Get Lesson Links</a> page for information on how to receive lesson links.</p>
     </div>
     <div class="content-column one_half">
-        <div style="padding-right:20px;">
+        <div>
             <div class="title">
                 <h2>Reading Scientific Research</h2>
             </div>
@@ -86,7 +86,7 @@ permalink: /available-lessons/
         </div>
     </div>
     <div class="content-column one_half last_column">
-        <div style="padding-right:0px;">
+        <div>
             <div class="title">
                 <h2>Evidence-Based Practice</h2>
             </div>
@@ -161,10 +161,4 @@ permalink: /available-lessons/
             </div>
         </div>
     </div>
-    <div class="clear_column"></div>
-    <p></p>
-    <hr>
-    <div class="title"></div>
-    <p><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 2880px; left: 20px;">Save</span></p>
-    <p><span style="border-radius: 2px; text-indent: 20px; width: auto; padding: 0px 4px 0px 0px; text-align: center; font: bold 11px/20px 'Helvetica Neue',Helvetica,sans-serif; color: #ffffff; background: #bd081c no-repeat scroll 3px 50% / 14px 14px; position: absolute; opacity: 1; z-index: 8675309; display: none; cursor: pointer; top: 9174px; left: 20px;">Save</span></p>
 </div>

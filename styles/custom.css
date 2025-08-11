@@ -1,42 +1,104 @@
-/* Custom overrides for container width and padding */
-/* Keep vendor CSS intact; load this after tiny-framework/style.css */
+/* Load after tiny-framework/style.css */
 
-/* Make the main site container fluid with reduced horizontal padding */
+/* -----------------------------
+   Container
+------------------------------ */
+
 .site {
-  max-width: 100%;
-  width: 100%;
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 1rem;
-  padding-right: 1rem;
-}
-
-/* Slightly increase padding on larger screens while staying fluid */
-@media (min-width: 768px) {
-  .site {
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
+    width: 100%;
+    max-width: 90vw;
+    margin-inline: auto;
+    padding-inline: 1rem;
   }
-}
-
-@media (min-width: 1200px) {
-  .site {
-    padding-left: 2rem;
-    padding-right: 2rem;
+  
+  @media (min-width: 783px) {
+    .site {
+      max-width: min(1200px, 90vw) !important;
+      padding-inline: 1.5rem;
+    }
   }
-}
-
-/* Override theme's body .site constraints at larger breakpoints */
-@media (min-width: 783px) {
-  body .site {
-    max-width: 95% !important;
+  
+  @media (min-width: 1200px) {
+    .site {
+      max-width: 1200px;
+      padding-inline: 2rem;
+    }
   }
-}
-
-@media (min-width: 1100px) {
-  body .site {
-    /* Reduce theme's 2.5rem (40px) horizontal padding */
-    padding-left: 2rem;
-    padding-right: 2rem;
+  
+  /* -----------------------------
+     NLA accents & boxes
+  ------------------------------ */
+  
+  :root {
+    --nla-green: #006666;       /* darker teal */
+    --nla-green-600: #004d4d;   /* spare/darker accent */
+    --nla-green-50: #e8f5e9;    /* light bg */
+    --nla-shadow: 0 1px 2px rgba(0,0,0,.06), 0 2px 6px rgba(0,0,0,.04);
   }
-}
+  
+  /* Section header (title) */
+  .entry-content .title {
+    background: var(--nla-green);
+    color: #fff;
+    border: 1px solid #000;
+    border-bottom: 0;
+    border-radius: 6px 6px 0 0;
+    padding: .5rem .75rem;
+    margin-top: 1.25rem;
+    box-shadow: var(--nla-shadow);
+  }
+  
+  .entry-content .title h2 {
+    margin: 0;
+    color: inherit;
+  }
+  
+  /* Content box (body) */
+  .entry-content .contentbox {
+    background: #fff;
+    border: 1px solid #000;
+    border-radius: 0 0 6px 6px;
+    padding: 1rem;
+    margin: 0 0 1.25rem;
+    box-shadow: var(--nla-shadow);
+  }
+  
+  .entry-content .contentbox :is(p, ul):last-child {
+    margin-bottom: 0;
+  }
+  
+  .entry-content .contentbox img {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 4px;
+  }
+  
+  /* -----------------------------
+     Two-column lesson layout
+  ------------------------------ */
+  
+  /* Stack on small screens */
+  @media (max-width: 782px) {
+    .entry-content .content-column.one_half,
+    .entry-content .content-column.one_half.last_column {
+      width: 100% !important;
+      float: none !important;
+      padding-right: 0;
+      box-sizing: border-box;
+    }
+  }
+  
+  /* Two columns on larger screens */
+  @media (min-width: 783px) {
+    .entry-content .content-column.one_half {
+      width: 50% !important;
+      float: left !important;
+      padding-right: 1rem;
+      box-sizing: border-box;
+    }
+    .entry-content .content-column.one_half.last_column {
+      padding-right: 0;
+    }
+  }
+  

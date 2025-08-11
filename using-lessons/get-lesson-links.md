@@ -4,7 +4,6 @@ title: Get Lesson Links
 permalink: /using-lessons/get-lesson-links/
 ---
 
-## Get Lesson Links
 <div class="entry-content" itemprop="articleBody">
     <div class="title"></div>
     <div class="contentbox">

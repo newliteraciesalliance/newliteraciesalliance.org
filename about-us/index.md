@@ -4,7 +4,6 @@ title: About Us
 permalink: /about-us/
 ---
 
-## About Us
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Steering Committee</h2>

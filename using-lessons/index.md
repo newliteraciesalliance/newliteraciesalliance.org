@@ -4,8 +4,6 @@ title: Using the Lessons
 permalink: /using-lessons/
 ---
 
-## Using the Lessons
-
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Teaching with the Lessons</h2>

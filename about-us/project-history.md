@@ -4,7 +4,6 @@ title: Project History
 permalink: /about-us/project-history/
 ---
 
-## Project History
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Defining Ideas</h2>

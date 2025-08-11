@@ -4,7 +4,6 @@ title: Research & Awards
 permalink: /research-awards/
 ---
 
-## Research & Awards
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Meetings</h2>

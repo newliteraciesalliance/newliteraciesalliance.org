@@ -4,7 +4,6 @@ title: Suggested Sequences
 permalink: /using-lessons/popular-sequences/
 ---
 
-## Suggested Sequences
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Strategic Selection of Lessons</h2>

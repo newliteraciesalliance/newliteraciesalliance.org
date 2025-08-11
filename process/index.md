@@ -4,7 +4,6 @@ title: Process
 permalink: /process/
 ---
 
-## Process
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Meetings</h2>

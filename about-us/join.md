@@ -4,7 +4,6 @@ title: Join
 permalink: /about-us/join/
 ---
 
-## Join
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Volunteer Opportunities</h2>

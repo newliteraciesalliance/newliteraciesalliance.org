@@ -4,7 +4,6 @@ title: For Librarians
 permalink: /for-librarians/
 ---
 
-## For Librarians
 <div class="entry-content" itemprop="articleBody">
     <div class="title">
         <h2>Resources</h2>
