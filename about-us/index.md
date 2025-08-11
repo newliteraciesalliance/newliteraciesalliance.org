@@ -11,22 +11,22 @@ permalink: /about-us/
     <div class="contentbox">
         <div class="grid-container">
             <div class="grid-row1col1">
-                <img decoding="async" style="width: 128px; height: 150px; margin-right: 15px;" src="/assets/images/Upson__Matt.png" alt="Matt Upson">
+                <img decoding="async" style="width: 128px; height: 150px; margin-right: 15px;" src="{{ "/assets/images/Upson__Matt.png" | relative_url }}" alt="Matt Upson">
                 <b>Matt Upson</b>, MLS <br> Co-chair <br> Associate Dean for Research and Learning Services <br>
                 <em>Oklahoma State University Libraries</em>
             </div>
             <div class="grid-row1col2">
-                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="/assets/images/Mallon_Melissa.png" alt="Melissa Mallon">
+                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/Mallon_Melissa.png" | relative_url }}" alt="Melissa Mallon">
                 <b>Melissa Mallon</b>, MLIS <br> Co-chair <br> Associate University Librarian for Teaching and Learning <br>
                 <em>Vanderbilt University</em>
             </div>
             <div class="grid-row2col1">
-                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="/assets/images/Melia_Fritch290x375.jpg" alt="Melia Fritch">
+                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/Melia_Fritch290x375.jpg" | relative_url }}" alt="Melia Fritch">
                 <b>Melia Fritch</b>, MLS, MA, PhD <br> Incoming Chair <br> Academic Services Librarian, Lead, Learning Experience and Design <br>
                 <em>Kansas State University Libraries</em>
             </div>
             <div class="grid-row2col2">
-                <img decoding="async" style="width: 134px; height: 141px; margin-right: 15px;" src="/assets/images/Joelle-Pitts.jpg" alt="Joelle Pitts">
+                <img decoding="async" style="width: 134px; height: 141px; margin-right: 15px;" src="{{ "/assets/images/Joelle-Pitts.jpg" | relative_url }}" alt="Joelle Pitts">
                 <b>Joelle Pitts</b>, MLS <br> Member At Large <br> Associate Dean for Administration, Planning, and Assessment <br>
                 <em>Carnegie Mellon University Libraries</em>
             </div>
@@ -39,22 +39,22 @@ permalink: /about-us/
     <div class="contentbox">
         <div class="grid-container">
             <div class="grid-row1col1">
-                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="/assets/images/alice_anderson.jpg" alt="Alice Anderson">
+                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/alice_anderson.jpg" | relative_url }}" alt="Alice Anderson">
                 <b>Alice Anderson</b>, MS <br> Instructional Designer <br>
                 <em>Kansas State University Libraries</em>
             </div>
             <div class="grid-row1col2">
-                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="/assets/images/Cristina_Colquhoun.jpg" alt="Cristina Colquhoun">
+                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/Cristina_Colquhoun.jpg" | relative_url }}" alt="Cristina Colquhoun">
                 <b>Cristina Colquhoun</b>, MS <br> Instructional Design &amp; Online Learning Librarian <br>
                 <em>Oklahoma State University</em>
             </div>
             <div class="grid-row2col1">
-                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="/assets/images/eric_kowalik.jpg" alt="Eric Kowalik">
+                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/eric_kowalik.jpg" | relative_url }}" alt="Eric Kowalik">
                 <b>Eric Kowalik</b>, MS <br> Instructional Designer <br>
                 <em>Marquette University</em>
             </div>
             <div class="grid-row2col2">
-                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="/assets/images/Simon_Ringsmuth.jpg" alt="Simon Ringsmuth">
+                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/Simon_Ringsmuth.jpg" | relative_url }}" alt="Simon Ringsmuth">
                 <b>Simon Ringsmuth</b>, MS <br> Digital Services Librarian <br>
                 <em>Oklahoma State University</em>
             </div>
@@ -100,7 +100,7 @@ permalink: /about-us/
     <div class="contentbox">
         <div class="grid-container">
             <div class="grid-row1col1">
-                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="/assets/images/joe_mocnik.jpg" alt="Joe Mocnik">
+                <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/joe_mocnik.jpg" | relative_url }}" alt="Joe Mocnik">
                 <b>Joe Mocnik</b>
                 <br> Dean of K-State Libraries <br> Hale Library <br> Kansas State University
             </div>

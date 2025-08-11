@@ -43,7 +43,7 @@ permalink: /about-us/project-history/
     <div class="contentbox">
         <figure id="attachment_394" aria-describedby="caption-attachment-394" style="width: 200px" class="wp-caption alignleft">
             <a href="https://drive.google.com/file/d/0BwM-a2HpG7iBVWpySUgxaGdvS28/view" target="_blank" rel="noopener">
-                <img decoding="async" class="wp-image-394 size-full" src="/assets/images/nlahistory.jpg" alt="timeline of NLA events. Link goes to PDF." width="200" height="150">
+                <img decoding="async" class="wp-image-394 size-full" src="{{ "/assets/images/nlahistory.jpg" | relative_url }}" alt="timeline of NLA events. Link goes to PDF." width="200" height="150">
                 <span class="icon-webfont fa-external-link" aria-hidden="true"></span>
                 <span class="screen-reader-text">Opens in a new window</span>
             </a>

@@ -37,7 +37,7 @@ permalink: /using-lessons/get-lesson-links/
                 <tr>
                     <td class="ck_border" scope="row">HTML</td>
                     <td class="ck_border" style="text-align: center;">
-                        <img decoding="async" id="noshadow" class="size-full wp-image-286 alignnone" style="vertical-align: bottom;" src="/assets/images/Checkmark.gif" alt="Yes" width="22" height="22">
+                        <img decoding="async" id="noshadow" class="size-full wp-image-286 alignnone" style="vertical-align: bottom;" src="{{ "/assets/images/Checkmark.gif" | relative_url }}" alt="Yes" width="22" height="22">
                     </td>
                     <td class="ck_border" style="text-align: center;">no</td>
                     <td class="ck_border" style="text-align: center;">no</td>
@@ -46,10 +46,10 @@ permalink: /using-lessons/get-lesson-links/
                     <td class="ck_border" scope="row">LTI</td>
                     <td class="ck_border" style="text-align: center;">no</td>
                     <td class="ck_border" style="text-align: center;">
-                        <img decoding="async" id="noshadow" class="alignnone size-full wp-image-286" src="/assets/images/Checkmark.gif" alt="Yes" width="22" height="22">
+                        <img decoding="async" id="noshadow" class="alignnone size-full wp-image-286" src="{{ "/assets/images/Checkmark.gif" | relative_url }}" alt="Yes" width="22" height="22">
                     </td>
                     <td class="ck_border" style="text-align: center;">
-                        <img decoding="async" id="noshadow" class="alignnone size-full wp-image-286" src="/assets/images/Checkmark.gif" alt="Yes" width="22" height="22">
+                        <img decoding="async" id="noshadow" class="alignnone size-full wp-image-286" src="{{ "/assets/images/Checkmark.gif" | relative_url }}" alt="Yes" width="22" height="22">
                     </td>
                 </tr>
             </tbody>
@@ -73,7 +73,7 @@ permalink: /using-lessons/get-lesson-links/
         <hr>
         <h3>LTI Links</h3>
         <p>
-            <img fetchpriority="high" decoding="async" class="aligncenter wp-image-914 size-full" src="/assets/images/How_LTI_Operates_OpenedX.gif" alt="Communications between LMS and LTI server" width="580" height="360">
+            <img fetchpriority="high" decoding="async" class="aligncenter wp-image-914 size-full" src="{{ "/assets/images/How_LTI_Operates_OpenedX.gif" | relative_url }}" alt="Communications between LMS and LTI server" width="580" height="360">
         </p>
         <ol>
             <li>
