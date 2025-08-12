@@ -1,6 +1,14 @@
 /* Load after tiny-framework/style.css */
 
 /* -----------------------------
+  Global
+------------------------------ */
+
+body {
+  background-color: #ecebcd;
+}
+
+/* -----------------------------
    Container
 ------------------------------ */
 
