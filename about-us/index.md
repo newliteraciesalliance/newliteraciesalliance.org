@@ -9,7 +9,7 @@ permalink: /about-us/
         <h2>Steering Committee</h2>
     </div>
     <div class="contentbox">
-        <div class="grid-container">
+        <div class="profiles-grid">
             <div class="grid-row1col1">
                 <img decoding="async" style="width: 128px; height: 150px; margin-right: 15px;" src="{{ "/assets/images/Upson__Matt.png" | relative_url }}" alt="Matt Upson">
                 <b>Matt Upson</b>, MLS <br> Co-chair <br> Associate Dean for Research and Learning Services <br>
@@ -30,14 +30,13 @@ permalink: /about-us/
                 <b>Joelle Pitts</b>, MLS <br> Member At Large <br> Associate Dean for Administration, Planning, and Assessment <br>
                 <em>Carnegie Mellon University Libraries</em>
             </div>
-            <div></div>
         </div>
     </div>
     <div class="title">
         <h2>Instructional Designers</h2>
     </div>
     <div class="contentbox">
-        <div class="grid-container">
+        <div class="profiles-grid">
             <div class="grid-row1col1">
                 <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/alice_anderson.jpg" | relative_url }}" alt="Alice Anderson">
                 <b>Alice Anderson</b>, MS <br> Instructional Designer <br>
@@ -98,7 +97,7 @@ permalink: /about-us/
         <h2>Project Sponsors</h2>
     </div>
     <div class="contentbox">
-        <div class="grid-container">
+        <div class="profiles-grid">
             <div class="grid-row1col1">
                 <img decoding="async" style="width: 121px; height: 157px; margin-right: 15px;" src="{{ "/assets/images/joe_mocnik.jpg" | relative_url }}" alt="Joe Mocnik">
                 <b>Joe Mocnik</b>
