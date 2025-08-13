@@ -1,36 +1,28 @@
 <!doctype html>
 
 
+  <html dir="ltr" lang="en-US" class="no-js">
   {%- include head_clean.html -%}
 
   <body class="page-template page-template-page-templates page-template-full-width page-template-page-templatesfull-width-php page page-id-16 custom-background wp-custom-logo has-site-logo h-entry hentry h-as-page single-author header-image-no full-width custom-font-enabled singular page-for-librarians" itemscope="" itemtype="https://schema.org/WebPage">
 
     {%- include header.html -%}
+    <span class="skiplink"><a class="screen-reader-text" href="#content" title="Skip to content">Skip to content</a></span>
+    <div id="page" class="site">
 
-		
-    <div id="content" class="site-content">
-		
       <div id="primary" class="content-area">
-    
+        <main id="content" class="site-main" role="main" aria-label="Content" tabindex="-1">
+          {% if page.title and page.hide_title != true %}
+          <h1 class="page-title">{{ page.title }}</h1>
+          {% endif %}
+            {{ content }}
+        </main>
 
-    <!-- <main class="page-content" aria-label="Content"> -->
-      <!-- <div class="wrapper"> -->
-        {{ content }}
-      <!-- </div> -->
-    <!-- </main> -->
+      {%- include footer.html -%}
 
+    </div><!-- #primary -->
 
-    {%- include footer.html -%}
-
-
-	</div><!-- #primary -->
-
-  
-  </div><!-- #content .site-content -->
-
-
-
-</div><!-- #page .site -->
+  </div><!-- #page .site -->
 
 <script type="text/javascript" src="{{ "/styles/tiny-framework/js/navigation.js" | relative_url }}" id="tinyframework-navigation-js"></script>
 <script type="text/javascript" id="tinyframework-additional-scripts-js-extra">
@@ -43,4 +35,5 @@ var tinyframeworkAdditionalScripts = {"newWindow":"Opens in a new window"};
 
 <!-- Happy coding! "Ut In Omnibus Glorificetur Deus" ~Saint Benedict -->
 
-</html>
+  </body>
+  </html>

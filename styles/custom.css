@@ -8,6 +8,10 @@ body {
   background-color: #ecebcd;
 }
 
+#content, #primary {
+  width: 100%;
+}
+
 /* -----------------------------
    Container
 ------------------------------ */
@@ -83,6 +87,8 @@ body {
   margin: 0 0 1.25rem;
   box-shadow: var(--nla-shadow);
   display: flow-root; /* contain floats so box expands to fit */
+  width: 100%;
+  box-sizing: border-box; /* include padding/border in width so it fits container */
 }
 
 /* Fallback clearfix for older browsers (in case flow-root isn't supported) */
@@ -187,4 +193,13 @@ body {
 /* Hide external link icon */
 .fa-external-link {
   display: none;
+}
+
+/* -----------------------------
+    Typography overrides
+------------------------------ */
+/* Force standard black for H1s (layout title and content H1s) */
+.page-title,
+.entry-content h1 {
+  color: #000;
 }

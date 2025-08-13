@@ -99,7 +99,14 @@
           </header>
           <!-- .site-header -->
 
-        {{ content }}
+        <div id="primary" class="content-area">
+          <main id="content" class="site-main" role="main" aria-label="Content" tabindex="-1">
+            {% if page.title and page.hide_title != true %}
+            <h1 class="page-title">{{ page.title }}</h1>
+            {% endif %}
+              {{ content }}
+          </main>
+        </div>
 
 
     {%- include footer.html -%}
