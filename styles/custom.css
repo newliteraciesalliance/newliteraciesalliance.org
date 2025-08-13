@@ -82,6 +82,14 @@ body {
   padding: 1rem;
   margin: 0 0 1.25rem;
   box-shadow: var(--nla-shadow);
+  display: flow-root; /* contain floats so box expands to fit */
+}
+
+/* Fallback clearfix for older browsers (in case flow-root isn't supported) */
+.entry-content .contentbox::after {
+  content: "";
+  display: table;
+  clear: both;
 }
 
 .entry-content .contentbox :is(p, ul):last-child {
@@ -174,4 +182,9 @@ body {
 /* Space out each profile card */
 .entry-content .profiles-grid > div {
   margin: 0; /* reset any stray margins */
+}
+
+/* Hide external link icon */
+.fa-external-link {
+  display: none;
 }
