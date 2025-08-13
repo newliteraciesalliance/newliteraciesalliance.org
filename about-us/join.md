@@ -9,7 +9,7 @@ permalink: /about-us/join/
         <h2>Volunteer Opportunities</h2>
     </div>
     <div class="contentbox">
-        <p> Many people contribute many talents to the lessons produced by New Literacies Alliance. If you have talents to share and would like to be involved in upcoming development efforts, please contact one of our <a href="/about-us/">Project Leaders</a>. </p>
+        <p> Many people contribute many talents to the lessons produced by New Literacies Alliance. If you have talents to share and would like to be involved in upcoming development efforts, please contact one of our <a href="{{ "/about-us/" | relative_url }}">Project Leaders</a>. </p>
         <p>The time commitment for volunteers is approximately 20 hours per semester. </p>
         <h3>Content Creators</h3>
         <ul>

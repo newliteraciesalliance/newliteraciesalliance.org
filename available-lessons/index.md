@@ -9,7 +9,7 @@ permalink: /available-lessons/
         <h2>Lessons - Newest First</h2>
     </div>
     <div class="contentbox">
-        <p>Below, you can peruse all current NLA lessons. Each lesson takes an average of 8-15 minutes for students to complete. If you would like to use any of these free lessons, please visit the <a href="/using-lessons/get-lesson-links/">Get Lesson Links</a> page for information on how to receive lesson links. </p>
+        <p>Below, you can peruse all current NLA lessons. Each lesson takes an average of 8-15 minutes for students to complete. If you would like to use any of these free lessons, please visit the <a href="{{ "/using-lessons/get-lesson-links/" | relative_url }}">Get Lesson Links</a> page for information on how to receive lesson links. </p>
     </div>
     <div class="content-column one_half">
         <div>

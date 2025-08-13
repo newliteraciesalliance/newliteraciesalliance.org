@@ -95,6 +95,34 @@ body {
   border-radius: 4px;
 }
 
+/* Profiles rendered as a list instead of div grid */
+.entry-content .profiles-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem 1.5rem; /* row / column */
+}
+
+@media (min-width: 783px) {
+  .entry-content .profiles-list {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.entry-content .profiles-list > li {
+  margin: 0;
+}
+
+.entry-content .profiles-list img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin-bottom: .5rem;
+}
+
 /* -----------------------------
     Two-column lesson layout
 ------------------------------ */

@@ -5,7 +5,9 @@ permalink: /using-lessons/get-lesson-links/
 ---
 
 <div class="entry-content" itemprop="articleBody">
-    <div class="title"></div>
+    <div class="title">
+        <h2>Get Lesson Links</h2>
+    </div>
     <div class="contentbox">
         <h3>
             <span style="font-size: inherit;">Free to Use</span>
