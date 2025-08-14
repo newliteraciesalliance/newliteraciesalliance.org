@@ -50,7 +50,7 @@ There is no built-in site search. Use the primary navigation to access major sec
 ## Google Analytics (GA4)
 
 - Configure `ga4_measurement_id` in `_config.yml` (e.g., `G-XXXXXXXXXX`).
-- The GA4 snippet is conditionally included by `_includes/head_clean.html`.
+- The GA4 snippet is conditionally included by `_includes/head.html`.
 
 ## Asset locations
 
@@ -69,7 +69,7 @@ There is no built-in site search. Use the primary navigation to access major sec
 ## Structure overview
 
 - Layouts: `_layouts/{page,home,default2}.html`
-- Includes: `_includes/{head_clean,footer}.html`
+- Includes: `_includes/{head,footer}.html`
 - Home: `index.html`
 - Lessons list: `available-lessons.html`
 - Section stubs:
